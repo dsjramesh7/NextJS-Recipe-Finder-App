@@ -1,7 +1,8 @@
+import RecipeList from "@/components/recipe-list";
 import React from "react";
 
-const RecipeList = () => {
-  return <div>RecipeList</div>;
+const Recipes = () => {
+  return <RecipeList />;
 };
 
-export default RecipeList;
+export default Recipes;
